@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SkyEng</string>
+    <string name="action_send">Отправить</string>
+    <string name="hint_word">Введите слово</string>
+</resources>

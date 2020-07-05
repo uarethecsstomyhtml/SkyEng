@@ -1,0 +1,6 @@
+include ':ui-components'
+include ':dictionary'
+include ':network'
+include ':network-components'
+include ':app'
+rootProject.name = "SkyEng"
